@@ -1,0 +1,19 @@
+{
+  "name": "agent-protocols",
+  "owner": {
+    "name": "Arneesh Aima"
+  },
+  "metadata": {
+    "description": "Structured engineering protocols for AI coding agents -- covering the full software development lifecycle from spec to ship."
+  },
+  "plugins": [
+    {
+      "name": "agent-protocols",
+      "source": {
+        "source": "github",
+        "repo": "arneeshaima/agent-protocols"
+      },
+      "description": "Engineering protocols covering every phase of software development: define, plan, build, verify, review, and ship."
+    }
+  ]
+}
