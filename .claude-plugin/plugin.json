@@ -5,8 +5,8 @@
   "author": {
     "name": "Arnees Aima"
   },
-  "homepage": "https://github.com/arneeshaima/agent-protocols",
-  "repository": "https://github.com/arneeshaima/agent-protocols",
+  "homepage": "https://github.com/arneesh/agent-protocols",
+  "repository": "https://github.com/arneesh/agent-protocols",
   "license": "MIT",
   "commands": "./.claude/commands"
 }

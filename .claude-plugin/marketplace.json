@@ -11,7 +11,7 @@
       "name": "agent-protocols",
       "source": {
         "source": "github",
-        "repo": "arneeshaima/agent-protocols"
+        "repo": "arneesh/agent-protocols"
       },
       "description": "Engineering protocols covering every phase of software development: define, plan, build, verify, review, and ship."
     }
