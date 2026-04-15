@@ -50,9 +50,17 @@ Agent Protocols solves this by encoding the practices that experienced engineers
 
 ### Claude Code
 
+**From the marketplace (recommended):**
+
 ```bash
-git clone https://github.com/arneesh/agent-protocols
-claude --plugin-dir /path/to/agent-protocols
+claude /plugin install agent-protocols
+```
+
+**From source:**
+
+```bash
+claude /plugin marketplace add arneeshaima/agent-protocols
+claude /plugin install agent-protocols@agent-protocols
 ```
 
 ### Cursor
