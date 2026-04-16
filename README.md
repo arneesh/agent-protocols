@@ -59,7 +59,7 @@ claude /plugin install agent-protocols
 **From source:**
 
 ```bash
-claude /plugin marketplace add arneeshaima/agent-protocols
+claude /plugin marketplace add arneesh/agent-protocols
 claude /plugin install agent-protocols@agent-protocols
 ```
 
